@@ -5,4 +5,10 @@ it contains buttons
 html5
 css
 javascript
+# libraries
+animate.css
+# fonts
+googlefonts
+# images
+https://unsplash.com
 
