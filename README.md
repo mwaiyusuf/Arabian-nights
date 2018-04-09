@@ -5,7 +5,7 @@ it contains buttons.
 html5
 css
 javascript
-# libraries
+# libraries.
 animate.css
 # fonts
 googlefonts
