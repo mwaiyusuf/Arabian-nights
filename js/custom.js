@@ -5,4 +5,7 @@ Function nav(){
     if(Age<18){
         alert("This site is for over 18 please");
     }
+    else{
+        alert("Welcome to this amazing site")
+    }
 }
