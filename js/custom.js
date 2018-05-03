@@ -6,6 +6,6 @@ Function nav(){
         alert("This site is for over 18 please");
     }
     else{
-        alert("Welcome to this amazing site")
+        alert("Welcome to this amazing site");
     }
 }
