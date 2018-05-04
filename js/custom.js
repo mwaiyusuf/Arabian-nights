@@ -9,4 +9,4 @@ Function nav(){
         alert("Welcome to this amazing site");
     }
 }
-nav()
+nav();
