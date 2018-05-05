@@ -19,3 +19,4 @@ function bae(){
         alert("The number is not an even number");
     }
 }
+bae
