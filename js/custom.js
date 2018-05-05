@@ -12,4 +12,7 @@
 //nav();
 function bae(){
     var int=prompt("Enter a number");
+    if(int%2==0){
+        
+    }
 }
