@@ -15,4 +15,7 @@ function bae(){
     if(int%2==0){
         alert("The number is an even number");
     }
+    else{
+        
+    }
 }
