@@ -16,6 +16,6 @@ function bae(){
         alert("The number is an even number");
     }
     else{
-        
+        alert("The number is not an even number");
     }
 }
