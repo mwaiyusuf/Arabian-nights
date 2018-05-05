@@ -13,6 +13,6 @@
 function bae(){
     var int=prompt("Enter a number");
     if(int%2==0){
-        
+        alert("The number is an even number");
     }
 }
