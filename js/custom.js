@@ -10,13 +10,20 @@
 //    }
 //}
 //nav();
-function bae(){
-    var int=prompt("Enter a number");
-    if(int%2==0){
-        alert("The number is an even number");
+function negposn(){
+    var number=[];
+    for(i=0; i<=4; i++){
+        var num=number.push(prompt("Enter 9 numbers "));
     }
-    else{
-        alert("The number ids not an even number");
+    var count=0;
+    for(i=0; i<number.length; i++){
+        if(number[i]>=0){
+            countz++;
+        }
+        else{
+            countx++;
+        }
     }
+    alert("positive numbers are " + countz + " \n and Negative numbers are " + countx);
 }
-bae;
+negposn ();
