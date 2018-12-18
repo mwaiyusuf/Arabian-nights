@@ -24,6 +24,6 @@ function negposn(){
             countx++;
         }
     }
-    alert("positive numbers are " + countz + " \n and Negative numbers are " + countx);
+    alert("positive numbers are " + countz );
 }
 negposn ();
